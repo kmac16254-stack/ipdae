@@ -1,0 +1,3876 @@
+[
+  {
+    "code": "111101",
+    "name": "소총수",
+    "family": "보병",
+    "tags": [
+      "endurance",
+      "team",
+      "courage"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 128
+  },
+  {
+    "code": "111255",
+    "name": "체육지도병(육군사관학교 체육학조교)",
+    "family": "보병",
+    "tags": [
+      "endurance",
+      "team",
+      "courage"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 135
+  },
+  {
+    "code": "111275",
+    "name": "유해발굴병",
+    "family": "보병",
+    "tags": [
+      "endurance",
+      "team",
+      "courage"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 136
+  },
+  {
+    "code": "111283",
+    "name": "군마조교병(육군사관학교 마필 관리 및 승마 지도)",
+    "family": "보병",
+    "tags": [
+      "endurance",
+      "team",
+      "courage"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 137
+  },
+  {
+    "code": "111284",
+    "name": "의장병",
+    "family": "보병",
+    "tags": [
+      "endurance",
+      "team",
+      "courage"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 138
+  },
+  {
+    "code": "111285",
+    "name": "복지병",
+    "family": "보병",
+    "tags": [
+      "endurance",
+      "team",
+      "courage"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 139
+  },
+  {
+    "code": "111287",
+    "name": "작전전경",
+    "family": "보병",
+    "tags": [
+      "endurance",
+      "team",
+      "courage"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "excluded_conversion_or_discontinued",
+    "eligible": false,
+    "sourceLine": 140
+  },
+  {
+    "code": "111288",
+    "name": "의무경찰",
+    "family": "보병",
+    "tags": [
+      "endurance",
+      "team",
+      "courage"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "excluded_conversion_or_discontinued",
+    "eligible": false,
+    "sourceLine": 141
+  },
+  {
+    "code": "111289",
+    "name": "경비교도",
+    "family": "보병",
+    "tags": [
+      "endurance",
+      "team",
+      "courage"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "excluded_conversion_or_discontinued",
+    "eligible": false,
+    "sourceLine": 142
+  },
+  {
+    "code": "111290",
+    "name": "의무소방",
+    "family": "보병",
+    "tags": [
+      "endurance",
+      "team",
+      "courage"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "excluded_conversion_or_discontinued",
+    "eligible": false,
+    "sourceLine": 143
+  },
+  {
+    "code": "111292",
+    "name": "훈련소조교병",
+    "family": "보병",
+    "tags": [
+      "leadership",
+      "communication",
+      "endurance"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 144
+  },
+  {
+    "code": "111102",
+    "name": "M60, K3 기관총",
+    "family": "보병",
+    "tags": [
+      "endurance",
+      "team",
+      "courage"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 145
+  },
+  {
+    "code": "111103",
+    "name": "60mm 박격포",
+    "family": "보병",
+    "tags": [
+      "endurance",
+      "team",
+      "courage"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 146
+  },
+  {
+    "code": "111104",
+    "name": "90mm 무반동총",
+    "family": "보병",
+    "tags": [
+      "endurance",
+      "team",
+      "courage"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 147
+  },
+  {
+    "code": "111105",
+    "name": "106mm 무반동총",
+    "family": "보병",
+    "tags": [
+      "endurance",
+      "team",
+      "courage"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 148
+  },
+  {
+    "code": "111106",
+    "name": "81mm 박격포",
+    "family": "보병",
+    "tags": [
+      "endurance",
+      "team",
+      "courage"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 149
+  },
+  {
+    "code": "111107",
+    "name": "4.2\" 박격포",
+    "family": "보병",
+    "tags": [
+      "endurance",
+      "team",
+      "courage"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 150
+  },
+  {
+    "code": "111108",
+    "name": "대전차유도탄 (TOW/Metis-M)",
+    "family": "보병",
+    "tags": [
+      "endurance",
+      "team",
+      "courage"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 151
+  },
+  {
+    "code": "111109",
+    "name": "K4 고속유탄기관총",
+    "family": "보병",
+    "tags": [
+      "endurance",
+      "team",
+      "courage"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 152
+  },
+  {
+    "code": "112101",
+    "name": "특전폭파",
+    "family": "보병",
+    "tags": [
+      "endurance",
+      "team",
+      "courage"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 156
+  },
+  {
+    "code": "112102",
+    "name": "특전통신",
+    "family": "보병",
+    "tags": [
+      "endurance",
+      "team",
+      "courage"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 157
+  },
+  {
+    "code": "112103",
+    "name": "특전화기",
+    "family": "보병",
+    "tags": [
+      "endurance",
+      "team",
+      "courage"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 158
+  },
+  {
+    "code": "112104",
+    "name": "낙하산 정비",
+    "family": "보병",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 161
+  },
+  {
+    "code": "121101",
+    "name": "K1 전차 승무원",
+    "family": "기갑",
+    "tags": [
+      "technical",
+      "team",
+      "order"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 176
+  },
+  {
+    "code": "121293",
+    "name": "전차시뮬레이터병",
+    "family": "기갑",
+    "tags": [
+      "technical",
+      "team",
+      "order"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 178
+  },
+  {
+    "code": "121102",
+    "name": "M48 전차 승무원",
+    "family": "기갑",
+    "tags": [
+      "technical",
+      "team",
+      "order"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 179
+  },
+  {
+    "code": "121280",
+    "name": "T-80 전차 승무원",
+    "family": "기갑",
+    "tags": [
+      "technical",
+      "team",
+      "order"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 180
+  },
+  {
+    "code": "122101",
+    "name": "K1 전차 정비",
+    "family": "기갑",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 182
+  },
+  {
+    "code": "122102",
+    "name": "K1 전차 포탑 정비",
+    "family": "기갑",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 183
+  },
+  {
+    "code": "122103",
+    "name": "M47/M48 전차 정비",
+    "family": "기갑",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 184
+  },
+  {
+    "code": "122104",
+    "name": "M47/M48 전차 포탑 정비",
+    "family": "기갑",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 185
+  },
+  {
+    "code": "122105",
+    "name": "전차 통신 정비",
+    "family": "기갑",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 186
+  },
+  {
+    "code": "123101",
+    "name": "장갑차 승무",
+    "family": "기갑",
+    "tags": [
+      "technical",
+      "team",
+      "order"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 189
+  },
+  {
+    "code": "123102",
+    "name": "장갑차 정비",
+    "family": "기갑",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 190
+  },
+  {
+    "code": "123103",
+    "name": "K21 승무",
+    "family": "기갑",
+    "tags": [
+      "technical",
+      "team",
+      "order"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 191
+  },
+  {
+    "code": "131101",
+    "name": "105mm 견인포병",
+    "family": "포병",
+    "tags": [
+      "order",
+      "team",
+      "observation"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 213
+  },
+  {
+    "code": "131102",
+    "name": "155mm 견인포병",
+    "family": "포병",
+    "tags": [
+      "order",
+      "team",
+      "observation"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 214
+  },
+  {
+    "code": "131103",
+    "name": "155mm 자주포병",
+    "family": "포병",
+    "tags": [
+      "order",
+      "team",
+      "observation"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 215
+  },
+  {
+    "code": "131104",
+    "name": "155mm자주포병/조종수",
+    "family": "포병",
+    "tags": [
+      "observation",
+      "order",
+      "endurance"
+    ],
+    "requirements": [
+      "운전"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 216
+  },
+  {
+    "code": "131105",
+    "name": "견인포 화포 정비",
+    "family": "포병",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 217
+  },
+  {
+    "code": "131106",
+    "name": "155mm 자주포 화포/장갑 정비",
+    "family": "포병",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 218
+  },
+  {
+    "code": "131107",
+    "name": "K-9 자주곡사포 조종수",
+    "family": "포병",
+    "tags": [
+      "observation",
+      "order",
+      "endurance"
+    ],
+    "requirements": [
+      "운전"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 219
+  },
+  {
+    "code": "131108",
+    "name": "K9 자주포 화포/장갑 정비",
+    "family": "포병",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 220
+  },
+  {
+    "code": "132101",
+    "name": "다련장로켓(구룡) 운용/정비",
+    "family": "포병",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 222
+  },
+  {
+    "code": "132103",
+    "name": "MLRS/ATACMS 운용/정비",
+    "family": "포병",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 223
+  },
+  {
+    "code": "133101",
+    "name": "MLRS/ATACMS 사지/전산",
+    "family": "포병",
+    "tags": [
+      "order",
+      "team",
+      "observation"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 225
+  },
+  {
+    "code": "133102",
+    "name": "야포작전정보",
+    "family": "포병",
+    "tags": [
+      "order",
+      "team",
+      "observation"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 226
+  },
+  {
+    "code": "133103",
+    "name": "105mm 사격지휘",
+    "family": "포병",
+    "tags": [
+      "order",
+      "team",
+      "observation"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 227
+  },
+  {
+    "code": "133104",
+    "name": "155mm 사격지휘",
+    "family": "포병",
+    "tags": [
+      "order",
+      "team",
+      "observation"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 228
+  },
+  {
+    "code": "133105",
+    "name": "다련장로켓(구룡) 사격지휘",
+    "family": "포병",
+    "tags": [
+      "order",
+      "team",
+      "observation"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 229
+  },
+  {
+    "code": "133106",
+    "name": "음향",
+    "family": "포병",
+    "tags": [
+      "order",
+      "team",
+      "observation"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 230
+  },
+  {
+    "code": "133107",
+    "name": "포병측지",
+    "family": "포병",
+    "tags": [
+      "order",
+      "team",
+      "observation"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 231
+  },
+  {
+    "code": "133108",
+    "name": "표적탐지레이더",
+    "family": "포병",
+    "tags": [
+      "order",
+      "team",
+      "observation"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 232
+  },
+  {
+    "code": "133109",
+    "name": "자동측지 운용/정비",
+    "family": "포병",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 233
+  },
+  {
+    "code": "134101",
+    "name": "현무발사대 운용/정비",
+    "family": "포병",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 235
+  },
+  {
+    "code": "134102",
+    "name": "현무사통장치 운용/정비",
+    "family": "포병",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 236
+  },
+  {
+    "code": "135101",
+    "name": "포병기상",
+    "family": "포병",
+    "tags": [
+      "order",
+      "team",
+      "observation"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 239
+  },
+  {
+    "code": "141101",
+    "name": "발칸포 운용",
+    "family": "방공",
+    "tags": [
+      "observation",
+      "technical",
+      "order"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 254
+  },
+  {
+    "code": "141102",
+    "name": "오리콘포 운용",
+    "family": "방공",
+    "tags": [
+      "observation",
+      "technical",
+      "order"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 255
+  },
+  {
+    "code": "141103",
+    "name": "비호 운용",
+    "family": "방공",
+    "tags": [
+      "observation",
+      "technical",
+      "order"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 256
+  },
+  {
+    "code": "141104",
+    "name": "방공작전통제",
+    "family": "방공",
+    "tags": [
+      "observation",
+      "technical",
+      "order"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 257
+  },
+  {
+    "code": "141105",
+    "name": "휴대용유도탄 운용/정비",
+    "family": "방공",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 258
+  },
+  {
+    "code": "141106",
+    "name": "천마 운용",
+    "family": "방공",
+    "tags": [
+      "observation",
+      "technical",
+      "order"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 259
+  },
+  {
+    "code": "142101",
+    "name": "발칸포 정비",
+    "family": "방공",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 261
+  },
+  {
+    "code": "142102",
+    "name": "오리콘포 정비",
+    "family": "방공",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 262
+  },
+  {
+    "code": "142103",
+    "name": "비호 정비",
+    "family": "방공",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 263
+  },
+  {
+    "code": "142104",
+    "name": "천마 정비",
+    "family": "방공",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 264
+  },
+  {
+    "code": "143101",
+    "name": "저고도레이더 운용/정비",
+    "family": "방공",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 267
+  },
+  {
+    "code": "151101",
+    "name": "전투정보",
+    "family": "정보",
+    "tags": [
+      "observation",
+      "order",
+      "communication"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 282
+  },
+  {
+    "code": "151102",
+    "name": "심리전",
+    "family": "정보",
+    "tags": [
+      "observation",
+      "order",
+      "communication"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 283
+  },
+  {
+    "code": "151269",
+    "name": "방송병",
+    "family": "정보",
+    "tags": [
+      "observation",
+      "order",
+      "communication"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 285
+  },
+  {
+    "code": "151103",
+    "name": "특수정보",
+    "family": "정보",
+    "tags": [
+      "observation",
+      "order",
+      "communication"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 286
+  },
+  {
+    "code": "151104",
+    "name": "정찰",
+    "family": "정보",
+    "tags": [
+      "observation",
+      "order",
+      "communication"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 287
+  },
+  {
+    "code": "152101",
+    "name": "특수통신정보",
+    "family": "정보",
+    "tags": [
+      "observation",
+      "order",
+      "communication"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 289
+  },
+  {
+    "code": "152102",
+    "name": "ES 운용",
+    "family": "정보",
+    "tags": [
+      "observation",
+      "order",
+      "communication"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 290
+  },
+  {
+    "code": "152103",
+    "name": "EA 운용",
+    "family": "정보",
+    "tags": [
+      "observation",
+      "order",
+      "communication"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 291
+  },
+  {
+    "code": "152104",
+    "name": "땅굴탐지",
+    "family": "정보",
+    "tags": [
+      "observation",
+      "order",
+      "communication"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 292
+  },
+  {
+    "code": "152248",
+    "name": "지형자료관리",
+    "family": "정보",
+    "tags": [
+      "observation",
+      "order",
+      "communication"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 294
+  },
+  {
+    "code": "152296",
+    "name": "탐지분석",
+    "family": "정보",
+    "tags": [
+      "observation",
+      "order",
+      "communication"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 295
+  },
+  {
+    "code": "153101",
+    "name": "영상정보",
+    "family": "정보",
+    "tags": [
+      "observation",
+      "order",
+      "communication"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 298
+  },
+  {
+    "code": "153102",
+    "name": "TOD(열영상 감시장비) 운용",
+    "family": "정보",
+    "tags": [
+      "observation",
+      "order",
+      "communication"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 299
+  },
+  {
+    "code": "154101",
+    "name": "보안",
+    "family": "정보",
+    "tags": [
+      "observation",
+      "order",
+      "communication"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 302
+  },
+  {
+    "code": "155101",
+    "name": "무인항공정찰기 운용",
+    "family": "정보",
+    "tags": [
+      "observation",
+      "order",
+      "communication"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 328
+  },
+  {
+    "code": "161101",
+    "name": "야전공병",
+    "family": "공병",
+    "tags": [
+      "technical",
+      "endurance",
+      "team"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 343
+  },
+  {
+    "code": "161248",
+    "name": "지형자료관리",
+    "family": "공병",
+    "tags": [
+      "technical",
+      "endurance",
+      "team"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 345
+  },
+  {
+    "code": "161102",
+    "name": "지뢰설치/제거",
+    "family": "공병",
+    "tags": [
+      "technical",
+      "endurance",
+      "team"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 346
+  },
+  {
+    "code": "161103",
+    "name": "폭파",
+    "family": "공병",
+    "tags": [
+      "technical",
+      "endurance",
+      "team"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 347
+  },
+  {
+    "code": "161104",
+    "name": "야전건설",
+    "family": "공병",
+    "tags": [
+      "technical",
+      "endurance",
+      "team"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 348
+  },
+  {
+    "code": "162101",
+    "name": "목공",
+    "family": "공병",
+    "tags": [
+      "technical",
+      "endurance",
+      "team"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 350
+  },
+  {
+    "code": "162102",
+    "name": "측량",
+    "family": "공병",
+    "tags": [
+      "technical",
+      "endurance",
+      "team"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 351
+  },
+  {
+    "code": "162103",
+    "name": "제도",
+    "family": "공병",
+    "tags": [
+      "technical",
+      "endurance",
+      "team"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 352
+  },
+  {
+    "code": "162104",
+    "name": "소방장비",
+    "family": "공병",
+    "tags": [
+      "technical",
+      "endurance",
+      "team"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 353
+  },
+  {
+    "code": "162105",
+    "name": "배관 및 보일러",
+    "family": "공병",
+    "tags": [
+      "technical",
+      "endurance",
+      "team"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 354
+  },
+  {
+    "code": "162106",
+    "name": "전공",
+    "family": "공병",
+    "tags": [
+      "technical",
+      "endurance",
+      "team"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 355
+  },
+  {
+    "code": "162107",
+    "name": "환경시설관리",
+    "family": "공병",
+    "tags": [
+      "technical",
+      "endurance",
+      "team"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 356
+  },
+  {
+    "code": "163101",
+    "name": "장갑전투도저 운전",
+    "family": "공병",
+    "tags": [
+      "observation",
+      "order",
+      "endurance"
+    ],
+    "requirements": [
+      "운전"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 358
+  },
+  {
+    "code": "163102",
+    "name": "다목적굴삭기 운전",
+    "family": "공병",
+    "tags": [
+      "observation",
+      "order",
+      "endurance"
+    ],
+    "requirements": [
+      "운전"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 359
+  },
+  {
+    "code": "163103",
+    "name": "교량전차 운전",
+    "family": "공병",
+    "tags": [
+      "observation",
+      "order",
+      "endurance"
+    ],
+    "requirements": [
+      "운전"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 360
+  },
+  {
+    "code": "163104",
+    "name": "도하장비 운전",
+    "family": "공병",
+    "tags": [
+      "observation",
+      "order",
+      "endurance"
+    ],
+    "requirements": [
+      "운전"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 361
+  },
+  {
+    "code": "163105",
+    "name": "정수장비 운용",
+    "family": "공병",
+    "tags": [
+      "technical",
+      "endurance",
+      "team"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 362
+  },
+  {
+    "code": "163106",
+    "name": "RBS 가설",
+    "family": "공병",
+    "tags": [
+      "technical",
+      "endurance",
+      "team"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 363
+  },
+  {
+    "code": "163107",
+    "name": "공기압축기 운전",
+    "family": "공병",
+    "tags": [
+      "observation",
+      "order",
+      "endurance"
+    ],
+    "requirements": [
+      "운전"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 364
+  },
+  {
+    "code": "163108",
+    "name": "크레인 운전",
+    "family": "공병",
+    "tags": [
+      "observation",
+      "order",
+      "endurance"
+    ],
+    "requirements": [
+      "운전"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 365
+  },
+  {
+    "code": "163109",
+    "name": "도저 운전",
+    "family": "공병",
+    "tags": [
+      "observation",
+      "order",
+      "endurance"
+    ],
+    "requirements": [
+      "운전"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 366
+  },
+  {
+    "code": "163113",
+    "name": "그레이더 운전",
+    "family": "공병",
+    "tags": [
+      "observation",
+      "order",
+      "endurance"
+    ],
+    "requirements": [
+      "운전"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 367
+  },
+  {
+    "code": "163114",
+    "name": "도로포장기 운전",
+    "family": "공병",
+    "tags": [
+      "observation",
+      "order",
+      "endurance"
+    ],
+    "requirements": [
+      "운전"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 368
+  },
+  {
+    "code": "163115",
+    "name": "페이로더 운전",
+    "family": "공병",
+    "tags": [
+      "observation",
+      "order",
+      "endurance"
+    ],
+    "requirements": [
+      "운전"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 369
+  },
+  {
+    "code": "163116",
+    "name": "굴삭기 운전",
+    "family": "공병",
+    "tags": [
+      "observation",
+      "order",
+      "endurance"
+    ],
+    "requirements": [
+      "운전"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 370
+  },
+  {
+    "code": "163117",
+    "name": "발전기 운용/정비",
+    "family": "공병",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 371
+  },
+  {
+    "code": "163118",
+    "name": "난방기/모터 운용",
+    "family": "공병",
+    "tags": [
+      "technical",
+      "endurance",
+      "team"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 372
+  },
+  {
+    "code": "163119",
+    "name": "공병장비 정비",
+    "family": "공병",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 373
+  },
+  {
+    "code": "171101",
+    "name": "야전통신 운용/정비",
+    "family": "정보통신",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 388
+  },
+  {
+    "code": "171102",
+    "name": "유선시설 운용/정비",
+    "family": "정보통신",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 389
+  },
+  {
+    "code": "171103",
+    "name": "ATCIS 운용/정비",
+    "family": "정보통신",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 390
+  },
+  {
+    "code": "171104",
+    "name": "기록통신장비 운용/정비",
+    "family": "정보통신",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 391
+  },
+  {
+    "code": "171105",
+    "name": "통신통제기 운용/정비",
+    "family": "정보통신",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 392
+  },
+  {
+    "code": "171106",
+    "name": "교환시설 운용/정비",
+    "family": "정보통신",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 393
+  },
+  {
+    "code": "171107",
+    "name": "정보통신망 운용/정비",
+    "family": "정보통신",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 394
+  },
+  {
+    "code": "171108",
+    "name": "무선장비 운용/정비",
+    "family": "정보통신",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 395
+  },
+  {
+    "code": "171109",
+    "name": "무선타자/정비",
+    "family": "정보통신",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 396
+  },
+  {
+    "code": "171113",
+    "name": "중계기/반송기 운용/정비",
+    "family": "정보통신",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 397
+  },
+  {
+    "code": "171266",
+    "name": "위성통신병",
+    "family": "정보통신",
+    "tags": [
+      "communication",
+      "technical",
+      "order"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 399
+  },
+  {
+    "code": "172101",
+    "name": "M/W장비 운용/정비",
+    "family": "정보통신",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 401
+  },
+  {
+    "code": "173101",
+    "name": "암호체계 관리",
+    "family": "정보통신",
+    "tags": [
+      "communication",
+      "technical",
+      "order"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 404
+  },
+  {
+    "code": "174101",
+    "name": "레이더 운용/정비",
+    "family": "정보통신",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 407
+  },
+  {
+    "code": "174102",
+    "name": "사진 운용/정비",
+    "family": "정보통신",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 408
+  },
+  {
+    "code": "175101",
+    "name": "자동화체계 운용/정비",
+    "family": "정보통신",
+    "tags": [
+      "technical",
+      "observation",
+      "order"
+    ],
+    "requirements": [
+      "컴퓨터"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 411
+  },
+  {
+    "code": "175262",
+    "name": "S/W 개발병",
+    "family": "정보통신",
+    "tags": [
+      "technical",
+      "observation",
+      "order"
+    ],
+    "requirements": [
+      "컴퓨터"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 413
+  },
+  {
+    "code": "175272",
+    "name": "정보보호기술병",
+    "family": "정보통신",
+    "tags": [
+      "technical",
+      "observation",
+      "order"
+    ],
+    "requirements": [
+      "컴퓨터"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 414
+  },
+  {
+    "code": "181101",
+    "name": "항공운항/관제",
+    "family": "항공",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 429
+  },
+  {
+    "code": "182101",
+    "name": "소형공격헬기 정비",
+    "family": "항공",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 432
+  },
+  {
+    "code": "182102",
+    "name": "중형공격헬기 정비",
+    "family": "항공",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 433
+  },
+  {
+    "code": "182103",
+    "name": "소형기동헬기 정비",
+    "family": "항공",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 434
+  },
+  {
+    "code": "182104",
+    "name": "헬기장착무장 정비",
+    "family": "항공",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 435
+  },
+  {
+    "code": "182105",
+    "name": "중형기동헬기 정비",
+    "family": "항공",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 436
+  },
+  {
+    "code": "182106",
+    "name": "대형기동헬기 정비",
+    "family": "항공",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 437
+  },
+  {
+    "code": "182107",
+    "name": "헬기 기체 수리",
+    "family": "항공",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 438
+  },
+  {
+    "code": "182108",
+    "name": "헬기 기관 수리",
+    "family": "항공",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 439
+  },
+  {
+    "code": "182109",
+    "name": "헬기 계기 수리",
+    "family": "항공",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 440
+  },
+  {
+    "code": "182113",
+    "name": "헬기 무장 장착 수리",
+    "family": "항공",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 441
+  },
+  {
+    "code": "182114",
+    "name": "항공통신전자 수리",
+    "family": "항공",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 442
+  },
+  {
+    "code": "211101",
+    "name": "화학",
+    "family": "화생방",
+    "tags": [
+      "observation",
+      "order",
+      "care"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 456
+  },
+  {
+    "code": "211239",
+    "name": "화생방연구보조병",
+    "family": "화생방",
+    "tags": [
+      "observation",
+      "order",
+      "care"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 458
+  },
+  {
+    "code": "211295",
+    "name": "방사능연구보조병",
+    "family": "화생방",
+    "tags": [
+      "observation",
+      "order",
+      "care"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 459
+  },
+  {
+    "code": "211298",
+    "name": "생물학연구보조병",
+    "family": "화생방",
+    "tags": [
+      "observation",
+      "order",
+      "care"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 460
+  },
+  {
+    "code": "211102",
+    "name": "화생방작전통제",
+    "family": "화생방",
+    "tags": [
+      "observation",
+      "order",
+      "care"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 461
+  },
+  {
+    "code": "211103",
+    "name": "연막",
+    "family": "화생방",
+    "tags": [
+      "observation",
+      "order",
+      "care"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 462
+  },
+  {
+    "code": "211104",
+    "name": "화학제독",
+    "family": "화생방",
+    "tags": [
+      "observation",
+      "order",
+      "care"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 463
+  },
+  {
+    "code": "211105",
+    "name": "화학탐측",
+    "family": "화생방",
+    "tags": [
+      "observation",
+      "order",
+      "care"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 464
+  },
+  {
+    "code": "221101",
+    "name": "발칸포 수리",
+    "family": "병기",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 479
+  },
+  {
+    "code": "221102",
+    "name": "로켓무기 수리",
+    "family": "병기",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 480
+  },
+  {
+    "code": "221103",
+    "name": "대전차유도무기 수리",
+    "family": "병기",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 481
+  },
+  {
+    "code": "222101",
+    "name": "총기 수리",
+    "family": "병기",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 487
+  },
+  {
+    "code": "222102",
+    "name": "화포 수리",
+    "family": "병기",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 488
+  },
+  {
+    "code": "222103",
+    "name": "광학기재 수리",
+    "family": "병기",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 489
+  },
+  {
+    "code": "222104",
+    "name": "감시장비 수리",
+    "family": "병기",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 490
+  },
+  {
+    "code": "222105",
+    "name": "K-1 전차 수리",
+    "family": "병기",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 491
+  },
+  {
+    "code": "222106",
+    "name": "K-1 전차 사격기재 수리",
+    "family": "병기",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 492
+  },
+  {
+    "code": "222107",
+    "name": "M계열 전차 수리",
+    "family": "병기",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 493
+  },
+  {
+    "code": "222108",
+    "name": "M계열 전차 사격기재 수리",
+    "family": "병기",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 494
+  },
+  {
+    "code": "222109",
+    "name": "자주포 수리",
+    "family": "병기",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 495
+  },
+  {
+    "code": "222113",
+    "name": "K-9 자주포 수리",
+    "family": "병기",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 496
+  },
+  {
+    "code": "222114",
+    "name": "장갑차 수리",
+    "family": "병기",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 497
+  },
+  {
+    "code": "223101",
+    "name": "유선장비 수리",
+    "family": "병기",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 503
+  },
+  {
+    "code": "223102",
+    "name": "기록통신장비 수리",
+    "family": "병기",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 504
+  },
+  {
+    "code": "223103",
+    "name": "무선장비 수리",
+    "family": "병기",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 505
+  },
+  {
+    "code": "223104",
+    "name": "중계기/반송기 수리",
+    "family": "병기",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 506
+  },
+  {
+    "code": "223105",
+    "name": "BTCS 수리",
+    "family": "병기",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 507
+  },
+  {
+    "code": "223106",
+    "name": "레이더 수리",
+    "family": "병기",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 508
+  },
+  {
+    "code": "223107",
+    "name": "전자전장비 수리",
+    "family": "병기",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 509
+  },
+  {
+    "code": "223108",
+    "name": "시청각장비 수리",
+    "family": "병기",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 510
+  },
+  {
+    "code": "223109",
+    "name": "보안장비 수리",
+    "family": "병기",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 511
+  },
+  {
+    "code": "223113",
+    "name": "자동화장비 수리",
+    "family": "병기",
+    "tags": [
+      "technical",
+      "observation",
+      "order"
+    ],
+    "requirements": [
+      "컴퓨터"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 512
+  },
+  {
+    "code": "224101",
+    "name": "차량 수리",
+    "family": "병기",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 516
+  },
+  {
+    "code": "224102",
+    "name": "공병장비 수리",
+    "family": "병기",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 517
+  },
+  {
+    "code": "224103",
+    "name": "발전기장비 수리",
+    "family": "병기",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 518
+  },
+  {
+    "code": "224104",
+    "name": "용접/기계공작",
+    "family": "병기",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 519
+  },
+  {
+    "code": "224105",
+    "name": "병참장비 수리",
+    "family": "병기",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 520
+  },
+  {
+    "code": "224106",
+    "name": "화학장비 수리",
+    "family": "병기",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 521
+  },
+  {
+    "code": "224107",
+    "name": "의무장비 수리",
+    "family": "병기",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 522
+  },
+  {
+    "code": "225101",
+    "name": "탄약관리",
+    "family": "병기",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 529
+  },
+  {
+    "code": "225102",
+    "name": "탄약검사 및 정비",
+    "family": "병기",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 530
+  },
+  {
+    "code": "225103",
+    "name": "탄약처리",
+    "family": "병기",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 531
+  },
+  {
+    "code": "231101",
+    "name": "편성부대보급",
+    "family": "병참",
+    "tags": [
+      "order",
+      "care",
+      "team"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 547
+  },
+  {
+    "code": "231102",
+    "name": "영현등록",
+    "family": "병참",
+    "tags": [
+      "order",
+      "care",
+      "team"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 548
+  },
+  {
+    "code": "231103",
+    "name": "일반물자저장관리",
+    "family": "병참",
+    "tags": [
+      "order",
+      "care",
+      "team"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 551
+  },
+  {
+    "code": "231104",
+    "name": "의무보급",
+    "family": "병참",
+    "tags": [
+      "order",
+      "care",
+      "team"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 552
+  },
+  {
+    "code": "231105",
+    "name": "공구보급",
+    "family": "병참",
+    "tags": [
+      "order",
+      "care",
+      "team"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 553
+  },
+  {
+    "code": "231106",
+    "name": "유류관리",
+    "family": "병참",
+    "tags": [
+      "order",
+      "care",
+      "team"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 554
+  },
+  {
+    "code": "231107",
+    "name": "유류시험",
+    "family": "병참",
+    "tags": [
+      "order",
+      "care",
+      "team"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 555
+  },
+  {
+    "code": "231108",
+    "name": "일반물자재고기록",
+    "family": "병참",
+    "tags": [
+      "order",
+      "care",
+      "team"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 556
+  },
+  {
+    "code": "231109",
+    "name": "직물/천막 수리",
+    "family": "병참",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 557
+  },
+  {
+    "code": "231113",
+    "name": "군화 수리",
+    "family": "병참",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 558
+  },
+  {
+    "code": "231114",
+    "name": "사무용기계 수리",
+    "family": "병참",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 559
+  },
+  {
+    "code": "231115",
+    "name": "세탁",
+    "family": "병참",
+    "tags": [
+      "order",
+      "care",
+      "team"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 560
+  },
+  {
+    "code": "231116",
+    "name": "조리",
+    "family": "병참",
+    "tags": [
+      "care",
+      "order",
+      "team"
+    ],
+    "requirements": [
+      "요리"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 561
+  },
+  {
+    "code": "232101",
+    "name": "장비보급",
+    "family": "병참",
+    "tags": [
+      "order",
+      "care",
+      "team"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 564
+  },
+  {
+    "code": "232102",
+    "name": "수리부속보급",
+    "family": "병참",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 565
+  },
+  {
+    "code": "241101",
+    "name": "소형차량 운전",
+    "family": "수송",
+    "tags": [
+      "observation",
+      "order",
+      "endurance"
+    ],
+    "requirements": [
+      "운전"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 581
+  },
+  {
+    "code": "241102",
+    "name": "중형차량 운전",
+    "family": "수송",
+    "tags": [
+      "observation",
+      "order",
+      "endurance"
+    ],
+    "requirements": [
+      "운전"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 582
+  },
+  {
+    "code": "241103",
+    "name": "대형차량 운전",
+    "family": "수송",
+    "tags": [
+      "observation",
+      "order",
+      "endurance"
+    ],
+    "requirements": [
+      "운전"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 583
+  },
+  {
+    "code": "241104",
+    "name": "견인차량(트레일러) 운전",
+    "family": "수송",
+    "tags": [
+      "observation",
+      "order",
+      "endurance"
+    ],
+    "requirements": [
+      "운전"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 584
+  },
+  {
+    "code": "241105",
+    "name": "물자취급장비(지게차) 운전",
+    "family": "수송",
+    "tags": [
+      "observation",
+      "order",
+      "endurance"
+    ],
+    "requirements": [
+      "운전"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 585
+  },
+  {
+    "code": "241106",
+    "name": "경장갑차(KM900) 운전",
+    "family": "수송",
+    "tags": [
+      "observation",
+      "order",
+      "endurance"
+    ],
+    "requirements": [
+      "운전"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 586
+  },
+  {
+    "code": "241107",
+    "name": "차량정비",
+    "family": "수송",
+    "tags": [
+      "technical",
+      "order",
+      "observation"
+    ],
+    "requirements": [
+      "정비"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 588
+  },
+  {
+    "code": "241108",
+    "name": "K-53계열 차량 운전",
+    "family": "수송",
+    "tags": [
+      "observation",
+      "order",
+      "endurance"
+    ],
+    "requirements": [
+      "운전"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 589
+  },
+  {
+    "code": "241109",
+    "name": "구난차량운전",
+    "family": "수송",
+    "tags": [
+      "observation",
+      "order",
+      "endurance"
+    ],
+    "requirements": [
+      "운전"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 590
+  },
+  {
+    "code": "242101",
+    "name": "수송이동관리(TMO병)",
+    "family": "수송",
+    "tags": [
+      "order",
+      "observation",
+      "endurance"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 593
+  },
+  {
+    "code": "243101",
+    "name": "양화장치 운전",
+    "family": "수송",
+    "tags": [
+      "observation",
+      "order",
+      "endurance"
+    ],
+    "requirements": [
+      "운전"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 596
+  },
+  {
+    "code": "243102",
+    "name": "선박운용",
+    "family": "수송",
+    "tags": [
+      "order",
+      "observation",
+      "endurance"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 597
+  },
+  {
+    "code": "243103",
+    "name": "화물검수",
+    "family": "수송",
+    "tags": [
+      "order",
+      "observation",
+      "endurance"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 598
+  },
+  {
+    "code": "311101",
+    "name": "행정/PC 운용",
+    "family": "부관",
+    "tags": [
+      "technical",
+      "observation",
+      "order"
+    ],
+    "requirements": [
+      "컴퓨터"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 613
+  },
+  {
+    "code": "311268",
+    "name": "속기병",
+    "family": "부관",
+    "tags": [
+      "order",
+      "communication",
+      "technical"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 615
+  },
+  {
+    "code": "311102",
+    "name": "인쇄",
+    "family": "부관",
+    "tags": [
+      "order",
+      "communication",
+      "technical"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 616
+  },
+  {
+    "code": "312101",
+    "name": "목관악기",
+    "family": "부관",
+    "tags": [
+      "communication",
+      "team",
+      "order"
+    ],
+    "requirements": [
+      "음악"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 622
+  },
+  {
+    "code": "312102",
+    "name": "금관악기",
+    "family": "부관",
+    "tags": [
+      "communication",
+      "team",
+      "order"
+    ],
+    "requirements": [
+      "음악"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 623
+  },
+  {
+    "code": "312103",
+    "name": "타악기",
+    "family": "부관",
+    "tags": [
+      "communication",
+      "team",
+      "order"
+    ],
+    "requirements": [
+      "음악"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 624
+  },
+  {
+    "code": "312104",
+    "name": "현악기",
+    "family": "부관",
+    "tags": [
+      "communication",
+      "team",
+      "order"
+    ],
+    "requirements": [
+      "음악"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 625
+  },
+  {
+    "code": "312105",
+    "name": "국악",
+    "family": "부관",
+    "tags": [
+      "communication",
+      "team",
+      "order"
+    ],
+    "requirements": [
+      "음악"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 626
+  },
+  {
+    "code": "321101",
+    "name": "근무헌병",
+    "family": "헌병",
+    "tags": [
+      "order",
+      "courage",
+      "leadership"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 641
+  },
+  {
+    "code": "321271",
+    "name": "특별경호병",
+    "family": "헌병",
+    "tags": [
+      "order",
+      "courage",
+      "leadership"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 643
+  },
+  {
+    "code": "321273",
+    "name": "33경호병",
+    "family": "헌병",
+    "tags": [
+      "order",
+      "courage",
+      "leadership"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 644
+  },
+  {
+    "code": "321274",
+    "name": "싸이카(MC승무)헌병",
+    "family": "헌병",
+    "tags": [
+      "order",
+      "courage",
+      "leadership"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 645
+  },
+  {
+    "code": "322101",
+    "name": "수사헌병",
+    "family": "헌병",
+    "tags": [
+      "order",
+      "courage",
+      "leadership"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 648
+  },
+  {
+    "code": "322254",
+    "name": "수사전문병",
+    "family": "헌병",
+    "tags": [
+      "order",
+      "courage",
+      "leadership"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 650
+  },
+  {
+    "code": "322272",
+    "name": "사이버수사병",
+    "family": "헌병",
+    "tags": [
+      "order",
+      "courage",
+      "leadership"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 651
+  },
+  {
+    "code": "331101",
+    "name": "경리행정",
+    "family": "재정",
+    "tags": [
+      "order",
+      "observation",
+      "technical"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 666
+  },
+  {
+    "code": "331267",
+    "name": "회계원가비용분석병",
+    "family": "재정",
+    "tags": [
+      "order",
+      "observation",
+      "technical"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 668
+  },
+  {
+    "code": "341101",
+    "name": "정훈행정",
+    "family": "정훈",
+    "tags": [
+      "communication",
+      "team",
+      "leadership"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 683
+  },
+  {
+    "code": "341102",
+    "name": "시청각장비 운용",
+    "family": "정훈",
+    "tags": [
+      "communication",
+      "team",
+      "leadership"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 684
+  },
+  {
+    "code": "411101",
+    "name": "일반의무",
+    "family": "의무",
+    "tags": [
+      "care",
+      "observation",
+      "order"
+    ],
+    "requirements": [
+      "의료"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 700
+  },
+  {
+    "code": "411275",
+    "name": "유해발굴감식병",
+    "family": "의무",
+    "tags": [
+      "care",
+      "observation",
+      "order"
+    ],
+    "requirements": [
+      "의료"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 701
+  },
+  {
+    "code": "411102",
+    "name": "치무",
+    "family": "의무",
+    "tags": [
+      "care",
+      "observation",
+      "order"
+    ],
+    "requirements": [
+      "의료"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 702
+  },
+  {
+    "code": "411103",
+    "name": "수의",
+    "family": "의무",
+    "tags": [
+      "care",
+      "observation",
+      "order"
+    ],
+    "requirements": [
+      "의료"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 703
+  },
+  {
+    "code": "411104",
+    "name": "임상병리",
+    "family": "의무",
+    "tags": [
+      "care",
+      "observation",
+      "order"
+    ],
+    "requirements": [
+      "의료"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 704
+  },
+  {
+    "code": "411105",
+    "name": "방사선촬영",
+    "family": "의무",
+    "tags": [
+      "care",
+      "observation",
+      "order"
+    ],
+    "requirements": [
+      "의료"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 705
+  },
+  {
+    "code": "411106",
+    "name": "약제",
+    "family": "의무",
+    "tags": [
+      "care",
+      "observation",
+      "order"
+    ],
+    "requirements": [
+      "의료"
+    ],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 706
+  },
+  {
+    "code": "461101",
+    "name": "법무행정",
+    "family": "법무",
+    "tags": [
+      "order",
+      "observation",
+      "communication"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 742
+  },
+  {
+    "code": "471101",
+    "name": "기독교 군종병(군종행정-기독교)",
+    "family": "군종",
+    "tags": [
+      "care",
+      "communication",
+      "team"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 764
+  },
+  {
+    "code": "471102",
+    "name": "천주교 군종병(군종행정-천주교)",
+    "family": "군종",
+    "tags": [
+      "care",
+      "communication",
+      "team"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 765
+  },
+  {
+    "code": "471103",
+    "name": "불교 군종병(군종행정-불교)",
+    "family": "군종",
+    "tags": [
+      "care",
+      "communication",
+      "team"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 766
+  },
+  {
+    "code": "471104",
+    "name": "원불교 군종병",
+    "family": "군종",
+    "tags": [
+      "care",
+      "communication",
+      "team"
+    ],
+    "requirements": [],
+    "source": "https://github.com/DalerMehndi/enha.github.io/blob/master/mirror/%EA%B5%B0%EC%82%AC%ED%8A%B9%EA%B8%B0.md",
+    "status": "historical_secondary_unverified_2013",
+    "eligible": true,
+    "sourceLine": 767
+  }
+]
